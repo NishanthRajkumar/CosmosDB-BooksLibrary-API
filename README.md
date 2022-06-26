@@ -1,2 +1,6 @@
 # Cosmos-BooksLibrary-API
-Implementing simple books library management API using python, pymongo and cosmosDB
+Implementing simple books library management API using Python
+Tools used:
+  - FastAPI
+  - pymongo
+  - cosmosDB
